@@ -1,0 +1,8 @@
+C:\Users\MyAlien\source\repos\CallofDutyProfileBackup\CallofDutyProfileBackup\bin\x64\Release\CallofDutyProfileBackup.exe.config
+C:\Users\MyAlien\source\repos\CallofDutyProfileBackup\CallofDutyProfileBackup\bin\x64\Release\CallofDutyProfileBackup.exe
+C:\Users\MyAlien\source\repos\CallofDutyProfileBackup\CallofDutyProfileBackup\bin\x64\Release\CallofDutyProfileBackup.pdb
+C:\Users\MyAlien\source\repos\CallofDutyProfileBackup\CallofDutyProfileBackup\obj\x64\Release\CallofDutyProfileBackup.csproj.AssemblyReference.cache
+C:\Users\MyAlien\source\repos\CallofDutyProfileBackup\CallofDutyProfileBackup\obj\x64\Release\CallofDutyProfileBackup.csproj.SuggestedBindingRedirects.cache
+C:\Users\MyAlien\source\repos\CallofDutyProfileBackup\CallofDutyProfileBackup\obj\x64\Release\CallofDutyProfileBackup.csproj.CoreCompileInputs.cache
+C:\Users\MyAlien\source\repos\CallofDutyProfileBackup\CallofDutyProfileBackup\obj\x64\Release\CallofDutyProfileBackup.exe
+C:\Users\MyAlien\source\repos\CallofDutyProfileBackup\CallofDutyProfileBackup\obj\x64\Release\CallofDutyProfileBackup.pdb
